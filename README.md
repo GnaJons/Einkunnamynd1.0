@@ -1,1 +1,0 @@
-# Einkunnamynd1.0
