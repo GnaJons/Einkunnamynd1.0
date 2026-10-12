@@ -1,0 +1,88 @@
+EINKUNNAMYND – NÁMSMATSSMIÐUR
+
+Opnaðu index.html í Edge, Chrome eða Firefox til að nota síðuna.
+Síðan er í einni skrá og þarf ekki uppsetningu eða innskráningu.
+
+SETJA Á GITHUB PAGES
+1. Búðu til nýtt repository á GitHub, til dæmis einkunnamynd.
+2. Veldu Add file > Upload files og settu index.html í rót þess.
+   Taktu skrána fyrst úr ZIP-pakkanum. Ekki hlaða ZIP-skránni sjálfri inn.
+3. Farðu í Settings > Pages.
+4. Undir Build and deployment velurðu Deploy from a branch.
+5. Veldu main og / (root), síðan Save.
+6. GitHub birtir hlekk á síðuna þegar hún er tilbúin.
+
+HVERNIG SÍÐAN ER NOTUÐ
+Veldu námsgrein úr listanum. Flokkar og vægi birtast sjálfkrafa.
+Skrifaðu skóla, bekk/hóp, skólaár og fjölda nemenda.
+Þú getur notað síðuna með hvaða árgangi sem er. Hvert Excel-skjal er fyrir
+eina námsgrein. Fylla þarf út alla innsláttarreiti í „Námsgrein og hópur“ áður en skjalið er sótt.
+
+Heiti námsflokka og upphafsvægi byggja á innsendu skjali:
+Leidbeinandi-vaegi-flokka-10.-b.-2026-2027.docx.
+Vægið er viðmið fyrir lok 10. bekkjar 2026–2027. Öllum heitum og vægi má
+breyta. Nokkur löng heiti sem voru stytt í heimildinni eru einnig stytt hér.
+Stærðfræðisniðið notar jafnframt verkefnaskipan úr námsmatsskjali GGJ.
+Í hinum sniðunum er eitt verkefni sem upphafspunktur í hverjum flokki.
+
+Breyttu flokkum, verkefnum, tímabilum og vægi. Samtala flokkavægis þarf
+að vera 100%. Vægispunktar verkefna gilda innan viðkomandi flokks.
+Flokkur með 0% vægi er sýnilegur en hefur ekki áhrif á heildareinkunn.
+
+Til að meta eitt verkefni í fleiri flokkum velurðu „Meta í öðrum flokki“.
+Þá fær hver flokkur sérstakan einkunnareit. Nafn verkefnis og tímabil eru
+tengd á síðunni, en vægi og einkunnir eru aðskilin. Í Excel breytirðu
+sameiginlegu heiti í fyrsta gula heitisreit verkefnisins á Stillingar.
+
+Sækja stillingar býr til JSON-skrá. Opna stillingar les hana aftur.
+Stillingar vistast einnig í vafranum þegar vafrinn leyfir það. Notaðu
+JSON-skrá til að geyma öruggt eintak eða færa uppsetninguna milli tölva.
+
+NOTKUN Í GOOGLE SHEETS
+Ef þú vilt geturðu hlaðið Excel-skránni upp í Google Drive, opnað hana
+og valið „Opna með Google Sheets“ (Open with Google Sheets).
+Leiðbeiningar frá Google: https://support.google.com/docs/answer/9331167?hl=en
+
+EXCEL-SKJALIÐ
+Skráning: Færðu nöfn, námskrá (valfrjálst) og einkunnir í gula reiti.
+Flokkar: Yfirlit yfir einkunnir allra nemenda og stöðu skráningar.
+Einkunnamynd: Veldu nemandanúmer til að skoða eða prenta yfirlitið.
+Stillingar: Breytanleg heiti, vægi og skýringar á reiknireglum.
+
+Einkunnir verkefna eru á bilinu 1–10 og mega vera tugabrot. Lokaeinkunn
+er alltaf námunduð að heilli tölu. Undirliggjandi meðaltöl eru ekki
+námunduð fyrir lokareikning. Auður reitur merkir að mat vanti.
+
+Flokkseinkunn tekur mið af skráðum verkefnum innan flokks. Núverandi
+meðaltal endurvegur þá flokka sem hafa einkunn. Það er bráðabirgðamat.
+Lokaeinkunn birtist þegar allir matsliðir í flokkum með jákvætt vægi
+eru skráðir. Tímabilsreitur birtist þegar matsliðir þess eru fullskráðir.
+
+Lokið/ólokið viðbætur eru valfrjálsar. Lokið hækkar grunneinkunn um valið
+gildi; Ólokið lækkar hana. Reiknuð verkefniseinkunn bíður þar til bæði
+grunneinkunn og allar viðbætur þess hafa verið skráðar. Niðurstaðan er
+takmörkuð við 1–10.
+
+Enginn lokaprófshluti, prófaval eða sameining margra námsgreina er í skjalinu.
+Ekki þarf að virkja fjölva. Hvert niðurhal er nýtt autt skráningarsnið.
+Nöfn og einkunnir eru færð inn í skjalið eftir niðurhal, í Excel eða Google Sheets.
+
+Ef þú breytir fjölda verkefna eða flokkum eftir að skráning hefst þarftu
+að sækja nýtt snið. Eldri einkunnir flytjast ekki sjálfkrafa milli skráa.
+Heiti og vægi má hins vegar breyta áfram inni í Excel.
+
+Ítarleg notkun: 1–200 nemendalínur, 1–12 flokkar, mest 60 matsliðir og
+16 tímabil. Sama verkefni í tveimur flokkum telst tveir matsliðir.
+Til að raða nöfnum í stafrófsröð notarðu örina við „Nemandi“ á Skráning.
+Þá fylgja einkunnir hverju nafni. Nemendanúmer
+eiga að haldast einstök. Ekki breyta formúlureitum eða eyða dálkum.
+
+PRÓFANIR
+Formúlur prófaðar með skráðum einkunnum, auðum reitum, ógildum gildum,
+breyttu vægi, 0% flokkum og lokið/ólokið viðbótum. XLSX-skrár hafa verið
+opnaðar og endurreiknaðar í LibreOffice. Útlit vinnublaða var yfirfarið.
+Aðgerðir vefsins voru prófaðar með sjálfvirkum JavaScript-prófunum.
+Síðan hefur ekki verið sjónrænt prófuð í vafra í þessu vinnuumhverfi og
+skráin hefur ekki verið opnuð í Microsoft Excel eða Google Sheets hér.
+
+GGJ · Hlíðaskóli · Gudborg.Gna.Jonsdottir@Reykjavik.is
