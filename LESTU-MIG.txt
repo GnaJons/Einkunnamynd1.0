@@ -34,6 +34,12 @@ Til að meta eitt verkefni í fleiri flokkum velurðu „Meta í öðrum flokki�
 tengd á síðunni, en vægi og einkunnir eru aðskilin. Í Excel breytirðu
 sameiginlegu heiti í fyrsta gula heitisreit verkefnisins á Stillingar.
 
+Afturkalla og Endurgera fylgja skrollinu neðst vinstra megin. Þú getur farið
+allt að 100 breytingar til baka og síðan áfram, þar á meðal breytingar á
+texta, vægi, flokkum og verkefnum. Talan á hnappinum sýnir fjölda skrefa.
+Samfelld innsláttarlota í sama reit telst ein breyting. Ný breyting eftir
+afturköllun byrjar nýja leið. Sagan hreinsast þegar síðan er endurhlaðin.
+
 Sækja stillingar býr til JSON-skrá. Opna stillingar les hana aftur.
 Stillingar vistast einnig í vafranum þegar vafrinn leyfir það. Notaðu
 JSON-skrá til að geyma öruggt eintak eða færa uppsetninguna milli tölva.
