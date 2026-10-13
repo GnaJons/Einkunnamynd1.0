@@ -1,4 +1,4 @@
-EINKUNNAMYND – NÁMSMATSSMIÐUR
+EINKUNNAMYND
 
 Opnaðu index.html í Edge, Chrome eða Firefox til að nota síðuna.
 Síðan er í einni skrá og þarf ekki uppsetningu eða innskráningu.
@@ -12,83 +12,134 @@ SETJA Á GITHUB PAGES
 5. Veldu main og / (root), síðan Save.
 6. GitHub birtir hlekk á síðuna þegar hún er tilbúin.
 
-HVERNIG SÍÐAN ER NOTUÐ
-Veldu námsgrein úr listanum. Flokkar og vægi birtast sjálfkrafa.
-Skrifaðu skóla, bekk/hóp, skólaár og fjölda nemenda.
-Þú getur notað síðuna með hvaða árgangi sem er. Hvert Excel-skjal er fyrir
-eina námsgrein. Fylla þarf út alla innsláttarreiti í „Námsgrein og hópur“ áður en skjalið er sótt.
+ÁÐUR EN ÞÚ BYRJAR
+Hafðu yfirlit yfir tímabil, námsflokka og verkefni við höndina.
 
+1. Skipuleggðu 4–8 tímabil og ákveððu heiti þeirra, t.d. „1 · Lota 1“,
+   „2 · Lota 2“ og svo framvegis. Hvert tímabil verður
+   einn dálkur í einkunnamyndinni. Númer fremst í heiti ræður röðinni.
+2. Ákveddu hvaða námsflokka þú ætlar að meta og vægi hvers flokks í
+   lokaeinkunn. Vægi flokkanna þarf að vera samtals 100%.
+3. Ákveddu hvaða verkefni og próf tilheyra hverjum flokki, hvaða tímabili
+   þau tilheyra og hvort þau eigi að vega jafnt innan flokks.
+
+Dæmi: „Bókagagnrýni“ er verkefni í námsflokknum „Ritun“ og tilheyrir
+tímabilinu „1 · Lota 1“.
+
+Gakktu frá skiptingunni áður en einkunnaskráning hefst. Ef þú breytir
+síðar tímabilum, flokkaskipan eða fjölda verkefna þarftu að útbúa nýtt
+skjal hér. Skráðar einkunnir flytjast ekki sjálfkrafa í nýtt skjal.
+Heiti flokka og verkefna og vægi þeirra má breyta á Stillingar í Excel.
+
+HVERNIG SÍÐAN ER NOTUÐ
+1. Námsgrein og hópur
+   Veldu námsgrein og fylltu út skóla, bekk/hóp, skólaár og fjölda nemenda.
+   Flokkar og vægi birtast sjálfkrafa. Þú getur aðlagað þau að öllum
+   árgöngum. „Önnur námsgrein“ byrjar með einum flokki sem þú breytir.
+
+2. Flokkar og verkefni
+   Yfirfarðu heiti og vægi flokkanna. Opnaðu „Skoða og breyta verkefnum“
+   í hverjum flokki. Bættu verkefnum við inni í flokknum sem þau tilheyra.
+   Skráðu heiti, tímabil og vægi hvers verkefnis.
+   Listinn yfir tímabil uppfærist sjálfkrafa. Notaðu sama tímabilsheiti
+   við verkefni sem eiga að birtast í sama dálki einkunnamyndarinnar.
+
+3. Forskoðun
+   Berðu flokka og tímabil í töflunni saman við áætlunina þína.
+   Þú getur skrunað töflunni til hliðar ef hún er breið.
+   Sýniseinkunnirnar fylgja ekki niðurhalinu.
+
+4. Niðurhal
+   Veldu „Hlaða niður Excel-skjali“. Ef hnappurinn er óvirkur birtast
+   skýringar fyrir ofan hann á því sem þarf að laga.
+   Opnaðu skjalið úr niðurhali vafrans eða möppunni sem þú vistaðir það í.
+
+VÆGI FLOKKS OG VÆGI VERKEFNIS
+Vægi flokks er prósenta af lokaeinkunn. Ef „Ritun“ vegur 30% kemur 30%
+lokaeinkunnar úr ritunarverkefnum. Flokkur með 0% vægi birtist í yfirlitinu
+án þess að hafa áhrif á lokaeinkunn.
+
+Vægi verkefnis er mælt í vægispunktum og gildir innan viðkomandi flokks.
+Skrifaðu til dæmis 10 fyrir öll verkefni sem eiga að vega jafnt.
+Verkefni með vægi 20 vegur tvöfalt á við verkefni með vægi 10.
+
+„Laga heildarvægi að 100%“ breytir vægi allra flokka í sama hlutfalli.
+Þú getur afturkallað breytinguna með hnappinum neðst vinstra megin.
+
+VALFRJÁLSIR VALKOSTIR
+Opnaðu „Fleiri valkostir“ við verkefni ef þú þarft þessa möguleika:
+- „Meta líka í öðrum flokki“ gefur sérstakan einkunnareit fyrir hvorn
+  flokk. Heiti og tímabil haldast sameiginleg á síðunni, en vægi og
+  einkunnir eru aðskilin. Í Excel breytirðu sameiginlegu heiti í fyrsta
+  gula heitisreit verkefnisins á Stillingar.
+- Lokið/ólokið viðbót hækkar eða lækkar einkunn verkefnis um valið gildi.
+  Skrá þarf bæði einkunn verkefnis og stöðu viðbótarinnar áður en
+  niðurstaðan reiknast. Einkunnin helst á bilinu 1–10.
+
+AFTURKALLA OG ENDURGERA
+Hnapparnir fylgja skrollinu neðst vinstra megin. Þú getur farið allt að
+100 breytingar til baka og síðan áfram aftur. Talan á hnappinum sýnir
+fjölda skrefa. Innsláttur í sama reit í einu telst ein breyting.
+Ný breyting eftir afturköllun byrjar nýja leið. Sagan hreinsast þegar
+þú endurhleður eða lokar síðunni.
+
+GEYMA UPPSETNINGUNA
+„Vista uppsetningu“ sækir sérstaka skrá með flokkunum, tímabilunum og
+verkefnunum þínum. Veldu „Opna vistaða uppsetningu“ hér á síðunni til að
+halda áfram síðar eða nota hana fyrir annan hóp. Þessi skrá endar á .json.
+Uppsetningin er einnig geymd sjálfkrafa í vafranum þegar hann leyfir það.
+
+EFTIR NIÐURHAL
+1. Opnaðu Excel-skjalið.
+2. Veldu blaðið Skráning neðst. Færðu nöfn og einkunnir í gula reiti.
+3. Veldu blaðið Einkunnamynd. Skráðu númer nemanda í gula reitinn
+   „Nemandi nr.“ til að sjá eða prenta yfirlitið hans.
+4. Vistaðu Excel-skjalið þegar þú hefur skráð upplýsingar.
+
+Á blaðinu Flokkar sérðu einkunnir og stöðu skráningar allra nemenda.
+Á blaðinu Stillingar geturðu breytt heitum og vægi.
+Til að raða nöfnum í stafrófsröð notarðu örina við „Nemandi“ á Skráning.
+Þá fylgja einkunnir hverju nafni. Nemendanúmer eiga að haldast einstök.
+Ekki breyta formúlureitum eða eyða dálkum.
+
+GOOGLE SHEETS
+Ef þú vilt geturðu hlaðið Excel-skránni upp í Google Drive, opnað hana
+og valið „Opna með Google Sheets“ (Open with Google Sheets).
+Skráðu síðan upplýsingar á blaðið Skráning.
+Leiðbeiningar frá Google: https://support.google.com/docs/answer/9331167?hl=en
+
+REIKNIREGLUR
+Einkunnir verkefna eru á bilinu 1–10 og mega vera tugabrot. Lokaeinkunn
+er námunduð að heilli tölu. Meðaltöl eru ekki námunduð fyrir lokareikning.
+Auður reitur merkir að mat vanti og telst ekki sem núll.
+
+Meðaltal flokks byggist á verkefnum sem þegar hafa fengið einkunn.
+Núverandi meðaltal er bráðabirgðaniðurstaða úr skráðum flokkum.
+Lokaeinkunn birtist þegar öll verkefni í flokkum með jákvætt vægi hafa
+verið metin. Einkunn fyrir tímabil birtist þegar öll verkefni í
+viðkomandi flokki á tímabilinu eru metin.
+
+Enginn lokaprófshluti, prófaval eða sameining margra námsgreina er í skjalinu.
+Hvert niðurhal er nýtt skjal með auðum reitum fyrir nöfn og einkunnir.
+
+UM TILLÖGURNAR Á SÍÐUNNI
 Heiti námsflokka og upphafsvægi byggja á innsendu skjali:
 Leidbeinandi-vaegi-flokka-10.-b.-2026-2027.docx.
 Vægið er viðmið fyrir lok 10. bekkjar 2026–2027. Öllum heitum og vægi má
-breyta. Nokkur löng heiti sem voru stytt í heimildinni eru einnig stytt hér.
-Stærðfræðisniðið notar jafnframt verkefnaskipan úr námsmatsskjali GGJ.
-Í hinum sniðunum er eitt verkefni sem upphafspunktur í hverjum flokki.
+breyta. Nokkur löng heiti eru stytt. Stærðfræðisniðið notar verkefnaskipan
+úr námsmatsskjali GGJ. Í hinum sniðunum er eitt verkefni sem upphafspunktur
+í hverjum flokki.
 
-Breyttu flokkum, verkefnum, tímabilum og vægi. Samtala flokkavægis þarf
-að vera 100%. Vægispunktar verkefna gilda innan viðkomandi flokks.
-Flokkur með 0% vægi er sýnilegur en hefur ekki áhrif á heildareinkunn.
-
-Til að meta eitt verkefni í fleiri flokkum velurðu „Meta í öðrum flokki“.
-Þá fær hver flokkur sérstakan einkunnareit. Nafn verkefnis og tímabil eru
-tengd á síðunni, en vægi og einkunnir eru aðskilin. Í Excel breytirðu
-sameiginlegu heiti í fyrsta gula heitisreit verkefnisins á Stillingar.
-
-Afturkalla og Endurgera fylgja skrollinu neðst vinstra megin. Þú getur farið
-allt að 100 breytingar til baka og síðan áfram, þar á meðal breytingar á
-texta, vægi, flokkum og verkefnum. Talan á hnappinum sýnir fjölda skrefa.
-Samfelld innsláttarlota í sama reit telst ein breyting. Ný breyting eftir
-afturköllun byrjar nýja leið. Sagan hreinsast þegar síðan er endurhlaðin.
-
-Sækja stillingar býr til JSON-skrá. Opna stillingar les hana aftur.
-Stillingar vistast einnig í vafranum þegar vafrinn leyfir það. Notaðu
-JSON-skrá til að geyma öruggt eintak eða færa uppsetninguna milli tölva.
-
-NOTKUN Í GOOGLE SHEETS
-Ef þú vilt geturðu hlaðið Excel-skránni upp í Google Drive, opnað hana
-og valið „Opna með Google Sheets“ (Open with Google Sheets).
-Leiðbeiningar frá Google: https://support.google.com/docs/answer/9331167?hl=en
-
-EXCEL-SKJALIÐ
-Skráning: Færðu nöfn, námskrá (valfrjálst) og einkunnir í gula reiti.
-Flokkar: Yfirlit yfir einkunnir allra nemenda og stöðu skráningar.
-Einkunnamynd: Veldu nemandanúmer til að skoða eða prenta yfirlitið.
-Stillingar: Breytanleg heiti, vægi og skýringar á reiknireglum.
-
-Einkunnir verkefna eru á bilinu 1–10 og mega vera tugabrot. Lokaeinkunn
-er alltaf námunduð að heilli tölu. Undirliggjandi meðaltöl eru ekki
-námunduð fyrir lokareikning. Auður reitur merkir að mat vanti.
-
-Flokkseinkunn tekur mið af skráðum verkefnum innan flokks. Núverandi
-meðaltal endurvegur þá flokka sem hafa einkunn. Það er bráðabirgðamat.
-Lokaeinkunn birtist þegar allir matsliðir í flokkum með jákvætt vægi
-eru skráðir. Tímabilsreitur birtist þegar matsliðir þess eru fullskráðir.
-
-Lokið/ólokið viðbætur eru valfrjálsar. Lokið hækkar grunneinkunn um valið
-gildi; Ólokið lækkar hana. Reiknuð verkefniseinkunn bíður þar til bæði
-grunneinkunn og allar viðbætur þess hafa verið skráðar. Niðurstaðan er
-takmörkuð við 1–10.
-
-Enginn lokaprófshluti, prófaval eða sameining margra námsgreina er í skjalinu.
-Ekki þarf að virkja fjölva. Hvert niðurhal er nýtt autt skráningarsnið.
-Nöfn og einkunnir eru færð inn í skjalið eftir niðurhal, í Excel eða Google Sheets.
-
-Ef þú breytir fjölda verkefna eða flokkum eftir að skráning hefst þarftu
-að sækja nýtt snið. Eldri einkunnir flytjast ekki sjálfkrafa milli skráa.
-Heiti og vægi má hins vegar breyta áfram inni í Excel.
-
-Ítarleg notkun: 1–200 nemendalínur, 1–12 flokkar, mest 60 matsliðir og
-16 tímabil. Sama verkefni í tveimur flokkum telst tveir matsliðir.
-Til að raða nöfnum í stafrófsröð notarðu örina við „Nemandi“ á Skráning.
-Þá fylgja einkunnir hverju nafni. Nemendanúmer
-eiga að haldast einstök. Ekki breyta formúlureitum eða eyða dálkum.
+Skipuleggðu námsmatið í 4–8 tímabil. Hvert skjal getur haft 1–200 nemendur,
+1–12 flokka og mest 60 matsliði. Sama verkefni í tveimur flokkum telst
+tveir matsliðir.
 
 PRÓFANIR
-Formúlur prófaðar með skráðum einkunnum, auðum reitum, ógildum gildum,
-breyttu vægi, 0% flokkum og lokið/ólokið viðbótum. XLSX-skrár hafa verið
-opnaðar og endurreiknaðar í LibreOffice. Útlit vinnublaða var yfirfarið.
-Aðgerðir vefsins voru prófaðar með sjálfvirkum JavaScript-prófunum.
-Síðan hefur ekki verið sjónrænt prófuð í vafra í þessu vinnuumhverfi og
-skráin hefur ekki verið opnuð í Microsoft Excel eða Google Sheets hér.
+Aðgerðir vefsins hafa verið prófaðar með sjálfvirkum JavaScript-prófunum,
+þar á meðal afturköllun, endurgerð, vistun uppsetningar og niðurhal.
+Útreikningar og útlit Excel-sniðsins voru yfirfarin við fyrri gerð þess.
+Síðan hefur ekki verið sjónrænt prófuð í vafra í þessu vinnuumhverfi eða
+prófuð með kennurum. Skjalið hefur ekki verið opnað í Microsoft Excel
+eða Google Sheets hér.
 
 GGJ · Hlíðaskóli · Gudborg.Gna.Jonsdottir@Reykjavik.is
